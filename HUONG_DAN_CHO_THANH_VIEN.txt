@@ -1,0 +1,31 @@
+========================================================================
+   HƯỚNG DẪN DÀNH CHO THÀNH VIÊN: Quốc Anh (Thành viên)
+   DỰ ÁN 1 - NHÓM 4: HỆ THỐNG BÁN LẺ NEXVORA PHONE STORE
+   KHO GITHUB MỚI: https://github.com/abcson20-design/DuAn-1-Nhom-4
+========================================================================
+
+1. THÔNG TIN PHÂN CÔNG:
+   - Họ và tên: Quốc Anh
+   - Nhánh Git riêng: dev-quocanh
+   - Nhiệm vụ phụ trách: Lập trình Giỏ hàng, Mã giảm giá & Đặt hàng (Checkout)
+   - Link kho GitHub: https://github.com/abcson20-design/DuAn-1-Nhom-4
+   - File đẩy code tự động: DAY_CODE_THANH_VIEN_QUOCANH.bat
+
+2. THƯ MỤC NÀY CHỨA:
+   - Toàn bộ các file Controllers, Models, Views thuộc đúng phần việc của bạn.
+   - DUY NHẤT 1 file 'DAY_CODE_THANH_VIEN_QUOCANH.bat' để bạn đẩy code lên GitHub.
+
+3. CÁCH ĐẨY CODE CỦA BẠN LÊN GITHUB (CHỈ 1 BƯỚC):
+   - Bạn chỉ cần nhấp đúp (Double-click) vào file 'DAY_CODE_THANH_VIEN_QUOCANH.bat'.
+   - Cửa sổ sẽ tự động:
+     + Nhận diện đúng nhánh 'dev-quocanh'.
+     + Ghi nhận đúng tác giả là 'Quốc Anh'.
+     + Hỏi bạn nhập email GitHub (để hiện avatar và tên bạn trên GitHub).
+     + Tự động commit và đẩy mã nguồn lên kho GitHub mới của nhóm.
+
+4. NẾU BẠN CHƯA ĐƯỢC CẤP QUYỀN ĐẨY LÊN REPO:
+   - Hãy gửi tên tài khoản (Username) GitHub của bạn cho Trưởng nhóm Sơn.
+   - Sơn sẽ add bạn vào mục Collaborators của kho:
+     https://github.com/abcson20-design/DuAn-1-Nhom-4
+   - Sau khi bạn đồng ý vào nhóm, bạn chạy file 'DAY_CODE_THANH_VIEN_QUOCANH.bat' sẽ đẩy lên ngay lập tức!
+========================================================================
